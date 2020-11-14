@@ -3,6 +3,7 @@ const PORT = process.env.PORT || 3001;
 const app = express();
 const fs = require('fs');
 const path = require('path');
+let notesArray = require('./db/db.json');
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
@@ -26,7 +27,7 @@ app.get('*', (req, res) => {
 });
 
 app.post('/api/notes', (req, res) => {
-    const note = createNewNote(req.body, notes);
+    const note = createNote(req.body, notes);
     res.json(note);
 });
 
