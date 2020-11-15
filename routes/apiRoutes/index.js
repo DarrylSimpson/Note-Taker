@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const path = require('path');
-const createNote = require('../../lib/notes.js');
+const { createNote } = require('../../lib/notes.js');
 let notes = require('../../db/db.json');
 
 

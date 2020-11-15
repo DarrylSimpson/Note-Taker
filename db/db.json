@@ -1,18 +1,7 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
-    "title": "asdfa",
-    "text": "dsaf"
-  },
-  {
-    "title": "asdf",
-    "text": "sdfasdddd"
-  },
-  {
-    "title": "hello",
-    "text": "hello there"
+    "id": "9f7a1abc-e44b-4f04-9a59-50dafaf83dfe",
+    "text": "Milk\nCereal\nPasta",
+    "title": "Go to the store"
   }
 ]
