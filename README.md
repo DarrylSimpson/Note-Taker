@@ -60,11 +60,11 @@
 
 ## Pictures
 
-![ScreenShot1of3](assets/images/image01.png)
+![ScreenShot1of3](Assets/images/image01.png)
 
-![ScreenShot2of3](assets/images/image02.png)
+![ScreenShot2of3](Assets/images/image02.png)
 
-![ScreenShot2of3](assets/images/image03.png)
+![ScreenShot2of3](Assets/images/image03.png)
 
 
 
